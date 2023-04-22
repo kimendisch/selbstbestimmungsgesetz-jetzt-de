@@ -38,6 +38,21 @@
 			<span class="abolish"><?= $dict->get("page_title_abolish") ?></span>
 			<span class="introduce"><?= $dict->get("page_title_introduce") ?></span>
 		</div>
+		
+		<div class="section">
+			<div class="content">
+				<div class="box">
+					<span class="title"><?= $dict->get("why_title") ?></span>
+					
+					<?php
+						$why_text = $dict->get("why_text");
+						foreach($why_text as $one_why_text_line){
+							echo("<span>" . $one_why_text_line . "</span>");
+						}
+					?>
+				</div>
+			</div>
+		</div>
 	</div>
 </div>
 

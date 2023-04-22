@@ -15,7 +15,7 @@
 		
 		
 		"page_title_abolish" => [
-			"de" => "Trans&shy;sexuellen&shy;gesetz abschaffen,",
+			"de" => "TSG abschaffen,",
 			"en" => "Abolish the TSG,"
 		],
 		"page_title_introduce" => [
@@ -27,9 +27,33 @@
 		
 		
 		
+		"why_title" => [
+			"de" => "Warum ein neues Gesetz?",
+			"en" => "Why a new Law?"
+		],
+		
+		"why_text" => [
+			"de" => [
+				"Das 1980 eingeführte Transsexuellengesetz regelt in Deutschland bis heute, wie Trans* Menschen ihren Namen und Geschlechtseintrag rechtlich ändern können.",
+				"Dieses Gesetz wird seinen Ansprüchen aber keinesfalls gerecht. Stattdessen werden Trans* Menschen Steine in den Weg gelegt:",
+				"Der Prozess zur Änderung von Namen und Geschlechtseintrag erfordert zwei unabhängige psychologische Gutachten und ein Gerichtsverfahren. Das ist diskriminierend, dauert eine Ewigkeit und ist sehr teuer.",
+				"Das Selbstbestimmungsgesetz soll das TSG ablösen und eine Änderung des Namens und des Geschlechtseintrags ganz einfach per Selbstauskunft beim Standesamt ermöglichen."
+			],
+			"en" => [
+				"The<i>Transsexuellengesetz</i> (Transsexual Law), introduced in 1980, regulates how trans* people can legally change their name and gender entry in Germany.",
+				"However, this law does not live up to its claims. Instead, obstacles are put in the way of trans* people:",
+				"The process of changing name and gender entry requires two independent psychological assessments and a court hearing. This is discriminatory, takes forever and is very expensive.",
+				"The Self-Determination Act is intended to replace the TSG and make it easy to change the name and gender entry by self-disclosure at the <i>Standesamt</i> (registry office)."
+			]
+		],
+		
+		
+		
+		
+		
 		"text_sourcecode" => [
 			"de" => "Quellcode",
-			"en" => "Sourcecode"
+			"en" => "Source Code"
 		],
 		
 		"text_imprint" => [
