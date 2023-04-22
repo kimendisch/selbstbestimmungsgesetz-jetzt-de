@@ -5,7 +5,9 @@
 	
 	// DEPENDENCIES //
 	// used extensions
+	self::$use[] = "lang";
 	self::$use[] = "page";
+	self::$use[] = "file";
 	self::$use[] = "project";
 	
 	
