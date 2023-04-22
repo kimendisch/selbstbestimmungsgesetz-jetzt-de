@@ -34,16 +34,9 @@
 
 <div class="page-container">
 	<div class="page">
-		<div class="section">
-			<div class="header">
-				<span class="icon ti ti-info-circle"></span>
-				<span class="text">Über</span>
-			</div>
-			<div class="content">
-				<div class="box">
-					<span>Content</span>
-				</div>
-			</div>
+		<div class="title">
+			<span class="abolish"><?= $dict->get("page_title_abolish") ?></span>
+			<span class="introduce"><?= $dict->get("page_title_introduce") ?></span>
 		</div>
 	</div>
 </div>

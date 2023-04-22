@@ -14,6 +14,19 @@
 		
 		
 		
+		"page_title_abolish" => [
+			"de" => "Trans&shy;sexuellen&shy;gesetz abschaffen,",
+			"en" => "Abolish the TSG,"
+		],
+		"page_title_introduce" => [
+			"de" => "<h1>Selbst&shy;bestim&shy;mungs&shy;gesetz</h1> einführen!",
+			"en" => "Introduce a <h1>Self-Determination Law</h1>!"
+		],
+		
+		
+		
+		
+		
 		"text_sourcecode" => [
 			"de" => "Quellcode",
 			"en" => "Sourcecode"
