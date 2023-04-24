@@ -36,7 +36,7 @@
 			"de" => [
 				"Das 1980 eingeführte Transsexuellengesetz regelt in Deutschland bis heute, wie Trans* Menschen ihren Namen und Geschlechtseintrag rechtlich ändern können.",
 				"Dieses Gesetz wird seinen Ansprüchen aber keinesfalls gerecht. Stattdessen werden Trans* Menschen Steine in den Weg gelegt:",
-				"Der Prozess zur Änderung von Namen und Geschlechtseintrag erfordert zwei unabhängige psychologische Gutachten und ein Gerichtsverfahren. Das ist diskriminierend, dauert eine Ewigkeit und ist sehr teuer.",
+				"Der Prozess zur Änderung von Namen und Geschlechtseintrag erfordert zwei unabhängige Sachverständigengutachten und ein Gerichtsverfahren. Das ist diskriminierend, dauert eine Ewigkeit und ist sehr teuer.",
 				"Das Selbstbestimmungsgesetz soll das TSG ablösen und eine Änderung des Namens und des Geschlechtseintrags ganz einfach per Selbstauskunft beim Standesamt ermöglichen."
 			],
 			"en" => [
@@ -45,6 +45,219 @@
 				"The process of changing name and gender entry requires two independent psychological assessments and a court hearing. This is discriminatory, takes forever and is very expensive.",
 				"The Self-Determination Act is intended to replace the TSG and make it easy to change the name and gender entry by self-disclosure at the <i>Standesamt</i> (registry office)."
 			]
+		],
+		
+		
+		
+		
+		
+		"timeline_title" => [
+			"de" => "Timeline",
+			"en" => "Timeline"
+		],
+		
+		
+		
+		
+		
+		"timeline_koalitionsvertrag_date" => [
+			"de" => "24 Nov 2021",
+			"en" => "24 Nov 2021"
+		],
+		"timeline_koalitionsvertrag_title" => [
+			"de" => "Koalitionsvertrag",
+			"en" => "Coalition Agreement"
+		],
+		"timeline_koalitionsvertrag_text" => [
+			"de" => [
+				"Bereits im Koalitionsvertrag \"Mehr Fortschritt wagen\" einigen sich die Parteien SPD, FDP und die Grünen unter der Überschrift \"Queeres Leben\" darauf, das TSG abzuschaffen und durch ein Selbstbestimmungsgesetz zu ersetzen (vgl. Link S. 95)."
+			],
+			"en" => [
+				"Already in the coalition agreement, the parties SPD, FDP and the Greens agree on abolishing the TSG and replacing it with a Self-Determination Law (see Link p. 95)."
+			]
+		],
+		"timeline_koalitionsvertrag_button" => [
+			"de" => "Koalitionsvertrag",
+			"en" => "Coalition Agreement (German)"
+		],
+		
+		
+		
+		
+		
+		"timeline_eckpunktepapier_date" => [
+			"de" => "30 Jun 2022",
+			"en" => "30 Jun 2022"
+		],
+		"timeline_eckpunktepapier_title" => [
+			"de" => "Eckpunktepapier",
+			"en" => "Key Issues Paper"
+		],
+		"timeline_eckpunktepapier_text" => [
+			"de" => [
+				"Das Eckpunktepapier des des Bundesministeriums für Familie, Senioren, Frauen und Jugend und des Bundesministeriums der Justiz legt die grundlegenden Eckpunkte des Selbstbestimmungsgesetzes fest.",
+				"Hierin wird festgelegt, dass die Änderung des Vornamens und Geschlechtseintrags per Erklärung beim Standesamt möglich sein soll. Auch eine Regelung für Minderjährige wird erwähnt. Zudem wird eine Sperrfrist von einem Jahr festgelegt, um Missbrauch zu verhindern."
+			],
+			"en" => [
+				"The key issues paper by the Federal Ministry for Family Affairs, Senior Citizens, Women and Youth and the Federal Ministry of Justice lays down the fundamental key points of the Self-Determination Act.",
+				"This stipulates that it should be possible to change the first name and gender entry by self-disclosure at the <i>Standesamt</i> (registry office). A regulation for minors is also mentioned. In addition, a blocking period of one year is set to prevent abuse."
+			]
+		],
+		"timeline_eckpunktepapier_button" => [
+			"de" => "Eckpunktepapier",
+			"en" => "Key Issues Paper (German)"
+		],
+		
+		
+		
+		
+		
+		"timeline_referentenentwurf_date" => [
+			"de" => "In wenigen Tagen",
+			"en" => "In a few days"
+		],
+		"timeline_referentenentwurf_title" => [
+			"de" => "Referentenentwurf",
+			"en" => "Draft Bill"
+		],
+		"timeline_referentenentwurf_text" => [
+			"de" => [
+				"Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium der Justiz erarbeiten gemeinsam einen ersten Entwurf des Selbstbestimmungsgesetzes, welcher im Anschluss mit Verbänden und Organisationen diskutiert wird.",
+				"<span class=\"gray\">Hinweis: Der Referentenentwurf liegt derzeit im Justizministerium und soll laut Bundesfamilienministerin Lisa Paus bald veröffentlicht werden.</span>"
+			],
+			"en" => [
+				"The Federal Ministry for Family Affairs, Senior Citizens, Women and Youth and the Federal Ministry of Justice are jointly developing a first draft of the Self-Determination Act, which will then be discussed with associations and organizations.",
+				"<span class=\"gray\">Note: The draft bill is currently in the Ministry of Justice and, according to Federal Minister for Family Affairs Lisa Paus, is to be published soon.</span>"
+			]
+		],
+		"timeline_referentenentwurf_button" => [
+			"de" => "",
+			"en" => ""
+		],
+		
+		
+		
+		
+		
+		"timeline_regierungsentwurf_date" => [
+			"de" => null,
+			"en" => null
+		],
+		"timeline_regierungsentwurf_title" => [
+			"de" => "Regierungsentwurf",
+			"en" => "Government Draft"
+		],
+		"timeline_regierungsentwurf_text" => [
+			"de" => [
+				"Aus den Beratungen mit den Verbänden und Organisationen beschließt die Bundesregierung den Regierungsentwurf, die vorläufige Version des Gesetzestextes, welche später im Bundestag beraten wird."
+			],
+			"en" => [
+				"From the consultations with the associations and organizations, the federal government creates the government draft, the preliminary version of the legal text, which will later be discussed in the <i>Bundestag</i> (Parliament of the Federal Republic of Germany)."
+			]
+		],
+		"timeline_regierungsentwurf_button" => [
+			"de" => "",
+			"en" => ""
+		],
+		
+		
+		
+		
+		
+		"timeline_lesung_1_date" => [
+			"de" => null,
+			"en" => null
+		],
+		"timeline_lesung_1_title" => [
+			"de" => "1. Lesung",
+			"en" => "1st Reading"
+		],
+		"timeline_lesung_1_text" => [
+			"de" => [
+				"In der ersten Lesung im Bundestag wird der Regierungsentwurf zum ersten mal gemeinsam mit den anderen Parteien debattiert. Danach wird der Gesetzentwurf an die zuständigen Ausschüsse übergeben, wo er weiter beraten wird."
+			],
+			"en" => [
+				"In the first reading in the <i>Bundestag</i> (Parliament), the government draft is debated for the first time together with the other parties. After that, the bill will be passed to the relevant committees, where it will be discussed further."
+			]
+		],
+		"timeline_lesung_1_button" => [
+			"de" => "",
+			"en" => ""
+		],
+		
+		
+		
+		
+		
+		"timeline_lesung_2_date" => [
+			"de" => null,
+			"en" => null
+		],
+		"timeline_lesung_2_title" => [
+			"de" => "2. Lesung",
+			"en" => "2nd Reading"
+		],
+		"timeline_lesung_2_text" => [
+			"de" => [
+				"Die zweite Lesung im Bundestag diskutiert die Ergebnisse der Ausschüsse. Einzelne Abgeordnete können Änderungen beantragen."
+			],
+			"en" => [
+				"The second reading in the <i>Bundestag</i> (Parliament) discusses the results of the committees. Individual members of the Bundestag can request changes."
+			]
+		],
+		"timeline_lesung_2_button" => [
+			"de" => "",
+			"en" => ""
+		],
+		
+		
+		
+		
+		
+		"timeline_lesung_3_date" => [
+			"de" => null,
+			"en" => null
+		],
+		"timeline_lesung_3_title" => [
+			"de" => "3. Lesung mit Schlussabstimmung",
+			"en" => "3rd Reading and Final Vote"
+		],
+		"timeline_lesung_3_text" => [
+			"de" => [
+				"Am Ende der dritten Lesung wird abschließend über das Gesetz abgestimmt."
+			],
+			"en" => [
+				"At the end of the third reading, a final vote is taken on the law."
+			]
+		],
+		"timeline_lesung_3_button" => [
+			"de" => "",
+			"en" => ""
+		],
+		
+		
+		
+		
+		
+		"timeline_inkrafttreten_date" => [
+			"de" => null,
+			"en" => null
+		],
+		"timeline_inkrafttreten_title" => [
+			"de" => "Inkrafttreten des Gesetzes",
+			"en" => "Entry into Force"
+		],
+		"timeline_inkrafttreten_text" => [
+			"de" => [
+				"Insofern der Bundesrat keine Einwände hat, wird das Gesetz veröffentlicht und tritt an einem bestimmten Tag in Kraft."
+			],
+			"en" => [
+				"If the <i>Bundesrat</i> (Federal Council) has no objections, the law will be published and will come into force on a specific date."
+			]
+		],
+		"timeline_inkrafttreten_button" => [
+			"de" => "",
+			"en" => ""
 		],
 		
 		

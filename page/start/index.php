@@ -53,6 +53,214 @@
 				</div>
 			</div>
 		</div>
+		
+		<div class="section">
+			<div class="header">
+				<span class="icon ti ti-clock"></span>
+				<span class="text"><?= $dict->get("timeline_title") ?></span>
+			</div>
+			<div class="content">
+				<div class="timeline">
+					<div class="item done">
+						<div class="connector">
+							<span class="waypoint ti ti-heart-handshake"></span>
+						</div>
+						<div class="box">
+							<?php
+								$timeline_date = $dict->get("timeline_koalitionsvertrag_date");
+								if($timeline_date !== null){
+							?>
+									<span class="extra"><i class="ti ti-calendar"></i><?= $timeline_date ?></span>
+							<?php } ?>
+							
+							<span class="title"><?= $dict->get("timeline_koalitionsvertrag_title") ?></span>
+							
+							<?php
+								$timeline_koalitionsvertrag_text = $dict->get("timeline_koalitionsvertrag_text");
+								foreach($timeline_koalitionsvertrag_text as $one_timeline_koalitionsvertrag_text_line){
+									echo("<span>" . $one_timeline_koalitionsvertrag_text_line . "</span>");
+								}
+							?>
+							
+							<div class="button-list">
+								<a href="https://www.spd.de/fileadmin/Dokumente/Koalitionsvertrag/Koalitionsvertrag_2021-2025.pdf" target="_blank" class="button">
+									<span class="text"><?= $dict->get("timeline_koalitionsvertrag_button") ?></span>
+									<span class="icon ti ti-external-link"></span>
+								</a>
+							</div>
+						</div>
+					</div>
+					
+					<div class="item done done-stop">
+						<div class="connector">
+							<span class="waypoint ti ti-border-corners"></span>
+						</div>
+						<div class="box">
+							<?php
+								$timeline_date = $dict->get("timeline_eckpunktepapier_date");
+								if($timeline_date !== null){
+							?>
+									<span class="extra"><i class="ti ti-calendar"></i><?= $timeline_date ?></span>
+							<?php } ?>
+							
+							<span class="title"><?= $dict->get("timeline_eckpunktepapier_title") ?></span>
+							
+							<?php
+								$timeline_eckpunktepapier_text = $dict->get("timeline_eckpunktepapier_text");
+								foreach($timeline_eckpunktepapier_text as $one_timeline_eckpunktepapier_text_line){
+									echo("<span>" . $one_timeline_eckpunktepapier_text_line . "</span>");
+								}
+							?>
+							
+							<div class="button-list">
+								<a href="https://www.bmfsfj.de/resource/blob/199382/1e751a6b7f366eec396d146b3813eed2/20220630-selbstbestimmungsgesetz-eckpunkte-data.pdf" target="_blank" class="button">
+									<span class="text"><?= $dict->get("timeline_eckpunktepapier_button") ?></span>
+									<span class="icon ti ti-external-link"></span>
+								</a>
+							</div>
+						</div>
+					</div>
+					
+					<div class="item next">
+						<div class="connector">
+							<span class="waypoint ti ti-pencil"></span>
+						</div>
+						<div class="box">
+							<?php
+								$timeline_date = $dict->get("timeline_referentenentwurf_date");
+								if($timeline_date !== null){
+							?>
+									<span class="extra"><i class="ti ti-calendar"></i><?= $timeline_date ?></span>
+							<?php } ?>
+							
+							<span class="title"><?= $dict->get("timeline_referentenentwurf_title") ?></span>
+							
+							<?php
+								$timeline_referentenentwurf_text = $dict->get("timeline_referentenentwurf_text");
+								foreach($timeline_referentenentwurf_text as $one_timeline_referentenentwurf_text_line){
+									echo("<span>" . $one_timeline_referentenentwurf_text_line . "</span>");
+								}
+							?>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="connector">
+							<span class="waypoint ti ti-notes"></span>
+						</div>
+						<div class="box">
+							<?php
+								$timeline_date = $dict->get("timeline_regierungsentwurf_date");
+								if($timeline_date !== null){
+							?>
+									<span class="extra"><i class="ti ti-calendar"></i><?= $timeline_date ?></span>
+							<?php } ?>
+							
+							<span class="title"><?= $dict->get("timeline_regierungsentwurf_title") ?></span>
+							
+							<?php
+								$timeline_regierungsentwurf_text = $dict->get("timeline_regierungsentwurf_text");
+								foreach($timeline_regierungsentwurf_text as $one_timeline_regierungsentwurf_text_line){
+									echo("<span>" . $one_timeline_regierungsentwurf_text_line . "</span>");
+								}
+							?>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="connector">
+							<span class="waypoint ti ti-podium"></span>
+						</div>
+						<div class="box">
+							<?php
+								$timeline_date = $dict->get("timeline_lesung_1_date");
+								if($timeline_date !== null){
+							?>
+									<span class="extra"><i class="ti ti-calendar"></i><?= $timeline_date ?></span>
+							<?php } ?>
+							
+							<span class="title"><?= $dict->get("timeline_lesung_1_title") ?></span>
+							
+							<?php
+								$timeline_lesung_1_text = $dict->get("timeline_lesung_1_text");
+								foreach($timeline_lesung_1_text as $one_timeline_lesung_1_text_line){
+									echo("<span>" . $one_timeline_lesung_1_text_line . "</span>");
+								}
+							?>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="connector">
+							<span class="waypoint ti ti-podium"></span>
+						</div>
+						<div class="box">
+							<?php
+								$timeline_date = $dict->get("timeline_lesung_2_date");
+								if($timeline_date !== null){
+							?>
+									<span class="extra"><i class="ti ti-calendar"></i><?= $timeline_date ?></span>
+							<?php } ?>
+							
+							<span class="title"><?= $dict->get("timeline_lesung_2_title") ?></span>
+							
+							<?php
+								$timeline_lesung_2_text = $dict->get("timeline_lesung_2_text");
+								foreach($timeline_lesung_2_text as $one_timeline_lesung_2_text_line){
+									echo("<span>" . $one_timeline_lesung_2_text_line . "</span>");
+								}
+							?>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="connector">
+							<span class="waypoint ti ti-hand-stop"></span>
+						</div>
+						<div class="box">
+							<?php
+								$timeline_date = $dict->get("timeline_lesung_3_date");
+								if($timeline_date !== null){
+							?>
+									<span class="extra"><i class="ti ti-calendar"></i><?= $timeline_date ?></span>
+							<?php } ?>
+							
+							<span class="title"><?= $dict->get("timeline_lesung_3_title") ?></span>
+							
+							<?php
+								$timeline_lesung_3_text = $dict->get("timeline_lesung_3_text");
+								foreach($timeline_lesung_3_text as $one_timeline_lesung_3_text_line){
+									echo("<span>" . $one_timeline_lesung_3_text_line . "</span>");
+								}
+							?>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="connector">
+							<span class="waypoint ti ti-gavel"></span>
+						</div>
+						<div class="box">
+							<?php
+								$timeline_date = $dict->get("timeline_inkrafttreten_date");
+								if($timeline_date !== null){
+							?>
+									<span class="extra"><i class="ti ti-calendar"></i><?= $timeline_date ?></span>
+							<?php } ?>
+							
+							<span class="title"><?= $dict->get("timeline_inkrafttreten_title") ?></span>
+							
+							<?php
+								$timeline_inkrafttreten_text = $dict->get("timeline_inkrafttreten_text");
+								foreach($timeline_inkrafttreten_text as $one_timeline_inkrafttreten_text_line){
+									echo("<span>" . $one_timeline_inkrafttreten_text_line . "</span>");
+								}
+							?>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>
 </div>
 
@@ -61,6 +269,7 @@
 <div class="footer">
 	<div class="brand">
 		<img src="<?= File::file("./asset/logo-256.png") ?>" alt="logo" />
+		<span>SelbstBestG Jetzt!</span>
 		<a href="https://git.tjdev.de/kimendisch/selbstbestimmungsgesetz-jetzt-de" target="_blank"><?= $dict->get("text_sourcecode") ?> <i class="ti ti-external-link"></i></a>
 		<span class="version">v<?= Project::meta_self()["version"] ?></span>
 	</div>
