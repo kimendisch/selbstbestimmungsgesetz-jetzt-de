@@ -78,7 +78,17 @@ span {
 a {
 	text-decoration: none;
 }
+.link {
+	color: var(--theme);
+}
+.link:hover {
+	cursor: pointer;
+	text-decoration: underline;
+}
 
+span.inline {
+	display: inline;
+}
 .colored {
 	color: var(--theme);
 }

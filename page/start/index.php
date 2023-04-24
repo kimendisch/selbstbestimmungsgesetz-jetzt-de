@@ -261,6 +261,28 @@
 				</div>
 			</div>
 		</div>
+		
+		<div class="section">
+			<div class="header">
+				<span class="icon ti ti-heart"></span>
+				<span class="text"><?= $dict->get("about_title") ?></span>
+			</div>
+			<div class="content">
+				<div class="box">
+					<?php
+						$about_text = $dict->get("about_text");
+						foreach($about_text as $one_about_text_line){
+							echo("<span>" . $one_about_text_line . "</span>");
+						}
+						
+						$mail_address = "mail@kim"."endisch.de";
+					?>
+					<span><?= $dict->get("about_mail_address_prefix") ?>: <a <?= Hidden::href("mailto:" . $mail_address) ?> class="link"><?= Hidden::text($mail_address) ?></a></span>
+					
+					<span class="gray"><?= $dict->get("about_disclaimer") ?></span>
+				</div>
+			</div>
+		</div>
 	</div>
 </div>
 

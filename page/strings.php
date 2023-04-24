@@ -123,11 +123,11 @@
 		"timeline_referentenentwurf_text" => [
 			"de" => [
 				"Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium der Justiz erarbeiten gemeinsam einen ersten Entwurf des Selbstbestimmungsgesetzes, welcher im Anschluss mit Verbänden und Organisationen diskutiert wird.",
-				"<span class=\"gray\">Hinweis: Der Referentenentwurf liegt derzeit im Justizministerium und soll laut Bundesfamilienministerin Lisa Paus bald veröffentlicht werden.</span>"
+				"<span class=\"inline gray\">Hinweis: Der Referentenentwurf liegt derzeit im Justizministerium und soll laut Bundesfamilienministerin Lisa Paus bald veröffentlicht werden.</span>"
 			],
 			"en" => [
 				"The Federal Ministry for Family Affairs, Senior Citizens, Women and Youth and the Federal Ministry of Justice are jointly developing a first draft of the Self-Determination Act, which will then be discussed with associations and organizations.",
-				"<span class=\"gray\">Note: The draft bill is currently in the Ministry of Justice and, according to Federal Minister for Family Affairs Lisa Paus, is to be published soon.</span>"
+				"<span class=\"inline gray\">Note: The draft bill is currently in the Ministry of Justice and, according to Federal Minister for Family Affairs Lisa Paus, is to be published soon.</span>"
 			]
 		],
 		"timeline_referentenentwurf_button" => [
@@ -258,6 +258,37 @@
 		"timeline_inkrafttreten_button" => [
 			"de" => "",
 			"en" => ""
+		],
+		
+		
+		
+		
+		
+		"about_title" => [
+			"de" => "Über diese Webseite",
+			"en" => "About this Website"
+		],
+		"about_text" => [
+			"de" => [
+				"Hi, ich bin Kim (sie/er/they)! Als nicht-binäre Person warte ich schon seit einer Ewigkeit auf das Selbstbestimmungsgesetz.",
+				"Die von der Bundesregierung selbst gesetzten Fristen für das Gesetz werden ständig verschoben und über den Fortschritt des Vorhabens dringt nur wenig nach außen.",
+				"Auf dieser Seite möchte ich dem Selbstbestimmungsgesetz die nötige Transparenz geben und den derzeitigen Stand der Gesetzgebung dokumentieren."
+			],
+			"en" => [
+				"Hi, I'm Kim (they/them)! As a non-binary person, I've been waiting for the Self-Determination Act for ages.",
+				"The deadlines for the law set by the federal government are constantly being pushed back and little is revealed about the progress of the project.",
+				"On this page I want to give the Self-Determination Law the necessary transparency and document the current status of the legislation."
+			]
+		],
+		
+		"about_mail_address_prefix" => [
+			"de" => "Für Fragen oder Anregungen bin ich jederzeit gerne per E-Mail erreichbar",
+			"en" => "If you have any questions or suggestions, feel free to contact me via e-mail"
+		],
+		
+		"about_disclaimer" => [
+			"de" => "Die Inhalte dieser Seite wurden sorgfältig recherchiert und nach bestem Wissen und Gewissen erstellt. Für die Korrektheit der Angaben wird jedoch keine Haftung übernommen.",
+			"en" => "The contents of this site have been carefully researched and created to the best of our knowledge and belief. However, no liability is assumed for the correctness of the information."
 		],
 		
 		
