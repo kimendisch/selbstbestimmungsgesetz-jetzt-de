@@ -294,7 +294,7 @@
 		
 		"about_disclaimer" => [
 			"de" => "Die Inhalte dieser Seite wurden sorgfältig recherchiert und nach bestem Wissen und Gewissen erstellt. Für die Korrektheit der Angaben wird jedoch keine Haftung übernommen.",
-			"en" => "The contents of this site have been carefully researched and created to the best of our knowledge and belief. However, no liability is assumed for the correctness of the information."
+			"en" => "The contents of this site have been carefully researched and created to the best of my knowledge and belief. However, no liability is assumed for the correctness of the information."
 		],
 		
 		
