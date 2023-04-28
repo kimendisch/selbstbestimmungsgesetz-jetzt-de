@@ -1,6 +1,6 @@
 <?php
 	// VERSION //
-	self::$version = "1.0.0";
+	self::$version = "1.0.1";
 	
 	
 	// DEPENDENCIES //

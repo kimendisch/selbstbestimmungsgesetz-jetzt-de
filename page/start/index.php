@@ -17,6 +17,7 @@
 	
 	Page::lang($lang->get());
 	Page::viewport(scale: 1, zoom: true);
+	Page::referrer("same-origin");
 	
 	Page::robots(index: true, follow: true);
 	Page::author("Kim Endisch");
@@ -91,7 +92,7 @@
 						</div>
 					</div>
 					
-					<div class="item done done-stop">
+					<div class="item done">
 						<div class="connector">
 							<span class="waypoint ti ti-border-corners"></span>
 						</div>
@@ -121,7 +122,7 @@
 						</div>
 					</div>
 					
-					<div class="item next">
+					<div class="item done done-stop">
 						<div class="connector">
 							<span class="waypoint ti ti-pencil"></span>
 						</div>
@@ -141,10 +142,21 @@
 									echo("<span>" . $one_timeline_referentenentwurf_text_line . "</span>");
 								}
 							?>
+							
+							<div class="button-list">
+								<a href="https://www.tagesschau.de/inland/innenpolitik/selbstbestimmungsgesetz-gesetzentwurf-100.html" target="_blank" class="button">
+									<span class="text"><?= $dict->get("timeline_referentenentwurf_button") ?></span>
+									<span class="icon ti ti-external-link"></span>
+								</a>
+								<a href="https://www.queer.de/detail.php?article_id=45400" target="_blank" class="button">
+									<span class="text"><?= $dict->get("timeline_referentenentwurf_button2") ?></span>
+									<span class="icon ti ti-external-link"></span>
+								</a>
+							</div>
 						</div>
 					</div>
 					
-					<div class="item">
+					<div class="item next">
 						<div class="connector">
 							<span class="waypoint ti ti-notes"></span>
 						</div>
