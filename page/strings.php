@@ -113,8 +113,8 @@
 		
 		
 		"timeline_referentenentwurf_date" => [
-			"de" => "In wenigen Tagen",
-			"en" => "In a few days"
+			"de" => "27 Apr 2023",
+			"en" => "27 Apr 2023"
 		],
 		"timeline_referentenentwurf_title" => [
 			"de" => "Referentenentwurf",
@@ -123,16 +123,22 @@
 		"timeline_referentenentwurf_text" => [
 			"de" => [
 				"Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium der Justiz erarbeiten gemeinsam einen ersten Entwurf des Selbstbestimmungsgesetzes, welcher im Anschluss mit Verbänden und Organisationen diskutiert wird.",
-				"<span class=\"inline gray\">Hinweis: Der Referentenentwurf liegt derzeit im Justizministerium und soll laut Bundesfamilienministerin Lisa Paus bald veröffentlicht werden.</span>"
+				"Der Referentenentwurf hält sich im Allgemeinen an die zuvor im Eckpunktepapier festgelegten Ziele. Neu sind Ausnahmen für Haftanstalten und im Hausrecht (z.B. für Frauensaunen). Zudem wird die Möglichkeit für cis Männer, ihren Geschlechtseintrag im Kriegsfall zu ändern eingeschränkt, um zu verhindern, dass diese sich dadurch einer Einberufung entziehen.",
+				"<span class=\"inline gray\">Hinweis: Über den Referentenentwurf wird derzeit regierungsintern abgestimmt. Das Originaldokument liegt leider nur vereinzelten Redaktionen vor und ist nicht öffentlich zugänglich.</span>"
 			],
 			"en" => [
 				"The Federal Ministry for Family Affairs, Senior Citizens, Women and Youth and the Federal Ministry of Justice are jointly developing a first draft of the Self-Determination Act, which will then be discussed with associations and organizations.",
-				"<span class=\"inline gray\">Note: The draft bill is currently in the Ministry of Justice and, according to Federal Minister for Family Affairs Lisa Paus, is to be published soon.</span>"
+				"The draft bill generally adheres to the goals previously set in the key issues paper. There are new exceptions for detention centers and in house law (e.g. for women's saunas). In addition, the ability for cis men to change their gender entry is restricted in the event of war to prevent them from avoiding a convening.",
+				"<span class=\"inline gray\">Note: The draft bill is currently being voted within the government. Unfortunately, the original document is only available to certain editors and is not open to the public.</span>"
 			]
 		],
 		"timeline_referentenentwurf_button" => [
-			"de" => "",
-			"en" => ""
+			"de" => "Artikel auf tagesschau.de",
+			"en" => "Article on tagesschau.de (German)"
+		],
+		"timeline_referentenentwurf_button2" => [
+			"de" => "Artikel auf queer.de",
+			"en" => "Article on queer.de (German)"
 		],
 		
 		
