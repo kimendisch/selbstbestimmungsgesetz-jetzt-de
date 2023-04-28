@@ -17,7 +17,7 @@
 	
 	Page::lang($lang->get());
 	Page::viewport(scale: 1, zoom: true);
-	Page::referrer("no-referrer");
+	Page::referrer("same-origin");
 	
 	Page::robots(index: true, follow: true);
 	Page::author("Kim Endisch");
