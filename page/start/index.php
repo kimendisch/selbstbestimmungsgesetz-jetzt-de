@@ -144,11 +144,11 @@
 							?>
 							
 							<div class="button-list">
-								<a href="https://www.tagesschau.de/inland/innenpolitik/selbstbestimmungsgesetz-gesetzentwurf-100.html" target="_blank" class="button">
+								<a href="https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/Dokumente/RefE_Selbstbestimmung.pdf?__blob=publicationFile" target="_blank" class="button">
 									<span class="text"><?= $dict->get("timeline_referentenentwurf_button") ?></span>
 									<span class="icon ti ti-external-link"></span>
 								</a>
-								<a href="https://www.queer.de/detail.php?article_id=45400" target="_blank" class="button">
+								<a href="https://www.bmj.de/SharedDocs/Downloads/DE/Themen/FamilieUndPartnerschaft/Fragen_und_Antworten_SBGG.pdf?__blob=publicationFile" target="_blank" class="button">
 									<span class="text"><?= $dict->get("timeline_referentenentwurf_button2") ?></span>
 									<span class="icon ti ti-external-link"></span>
 								</a>
