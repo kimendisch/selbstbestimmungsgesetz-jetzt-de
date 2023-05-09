@@ -21,7 +21,7 @@
 	
 	Page::robots(index: true, follow: true);
 	Page::author("Kim Endisch");
-	Page::keywords("selbstbestimmungsgesetz-jetzt", "selbstbestimmungsgesetz", "selbstbestimmung", "tsg", "transsexuellengesetz", "roadmap", "timeline", "stand", "trans", "nicht-binär", "non-binary", "deutschland", "gender", "geschlecht", "identität");
+	Page::keywords("selbstbestimmungsgesetz-jetzt", "selbstbestimmungsgesetz", "selbstbestimmung", "tsg", "transsexuellengesetz", "trans", "nicht-binär", "non-binary", "deutschland", "gender", "geschlecht", "identität", "roadmap", "timeline", "stand", "aktuell", "aktueller stand", "wann", "wann kommt", "inkrafttreten", "referentenentwurf");
 	
 	Page::css(__DIR__ . "/style.css");
 	
