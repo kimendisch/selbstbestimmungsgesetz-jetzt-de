@@ -123,13 +123,11 @@
 		"timeline_referentenentwurf_text" => [
 			"de" => [
 				"Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium der Justiz erarbeiten gemeinsam einen ersten Entwurf des Selbstbestimmungsgesetzes, welcher im Anschluss mit Verbänden und Organisationen diskutiert wird.",
-				"Der Referentenentwurf hält sich im Allgemeinen an die zuvor im Eckpunktepapier festgelegten Ziele. Neu sind Ausnahmen für Haftanstalten und im Hausrecht (z.B. für Frauensaunen). Zudem wird die Möglichkeit für cis Männer, ihren Geschlechtseintrag im Kriegsfall zu ändern eingeschränkt, um zu verhindern, dass diese sich dadurch einer Einberufung entziehen.",
-				"<span class=\"inline gray\">Hinweis: Der Referentenentwurf ist nun öffentlich einsehbar und kann von Verbänden und Organisationen diskutiert werden.</span>"
+				"Der Referentenentwurf hält sich im Allgemeinen an die zuvor im Eckpunktepapier festgelegten Ziele. Neu sind Ausnahmen für Haftanstalten und im Hausrecht (z.B. für Frauensaunen). Zudem wird die Möglichkeit für cis Männer, ihren Geschlechtseintrag im Kriegsfall zu ändern eingeschränkt, um zu verhindern, dass diese sich dadurch einer Einberufung entziehen."
 			],
 			"en" => [
 				"The Federal Ministry for Family Affairs, Senior Citizens, Women and Youth and the Federal Ministry of Justice are jointly developing a first draft of the Self-Determination Act, which will then be discussed with associations and organizations.",
-				"The draft bill generally adheres to the goals previously set in the key issues paper. There are new exceptions for detention centers and in house law (e.g. for women's saunas). In addition, the ability for cis men to change their gender entry is restricted in the event of war to prevent them from avoiding a convening.",
-				"<span class=\"inline gray\">Note: The draft bill is public now and can be discussed by associations and organizations.</span>"
+				"The draft bill generally adheres to the goals previously set in the key issues paper. There are new exceptions for detention centers and in house law (e.g. for women's saunas). In addition, the ability for cis men to change their gender entry is restricted in the event of war to prevent them from avoiding a convening."
 			]
 		],
 		"timeline_referentenentwurf_button" => [
@@ -155,10 +153,12 @@
 		],
 		"timeline_regierungsentwurf_text" => [
 			"de" => [
-				"Aus den Beratungen mit den Verbänden und Organisationen beschließt die Bundesregierung den Regierungsentwurf, die vorläufige Version des Gesetzestextes, welche später im Bundestag beraten wird."
+				"Aus den Beratungen mit den Verbänden und Organisationen beschließt die Bundesregierung den Regierungsentwurf, die vorläufige Version des Gesetzestextes, welche später im Bundestag beraten wird.",
+				"<span class=\"inline gray\">Hinweis: Das Kabinett konnte sich vor der parlamentarischen Sommerpause nicht auf einen Regierungsentwurf einigen. Während der Sommerpause finden jedoch auch vereinzelte Kabinettssitzungen statt.</span>"
 			],
 			"en" => [
-				"From the consultations with the associations and organizations, the federal government creates the government draft, the preliminary version of the legal text, which will later be discussed in the <i>Bundestag</i> (Parliament of the Federal Republic of Germany)."
+				"From the consultations with the associations and organizations, the federal government creates the government draft, the preliminary version of the legal text, which will later be discussed in the <i>Bundestag</i> (Parliament of the Federal Republic of Germany).",
+				"<span class=\"inline gray\">Note: The cabinet was not able to agree on a government draft before the parliamentary summer break. However, there are also a few cabinet sessions during the summer break.</span>"
 			]
 		],
 		"timeline_regierungsentwurf_button" => [
