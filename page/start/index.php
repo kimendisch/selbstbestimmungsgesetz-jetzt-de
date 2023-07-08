@@ -181,6 +181,29 @@
 					
 					<div class="item">
 						<div class="connector">
+							<span class="waypoint ti ti-zoom-check"></span>
+						</div>
+						<div class="box">
+							<?php
+								$timeline_date = $dict->get("timeline_bundesrat_date");
+								if($timeline_date !== null){
+							?>
+									<span class="extra"><i class="ti ti-calendar"></i><?= $timeline_date ?></span>
+							<?php } ?>
+							
+							<span class="title"><?= $dict->get("timeline_bundesrat_title") ?></span>
+							
+							<?php
+								$timeline_bundesrat_text = $dict->get("timeline_bundesrat_text");
+								foreach($timeline_bundesrat_text as $one_timeline_bundesrat_text_line){
+									echo("<span>" . $one_timeline_bundesrat_text_line . "</span>");
+								}
+							?>
+						</div>
+					</div>
+					
+					<div class="item">
+						<div class="connector">
 							<span class="waypoint ti ti-podium"></span>
 						</div>
 						<div class="box">
