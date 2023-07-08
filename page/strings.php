@@ -170,6 +170,31 @@
 		
 		
 		
+		"timeline_bundesrat_date" => [
+			"de" => null,
+			"en" => null
+		],
+		"timeline_bundesrat_title" => [
+			"de" => "Stellungnahme des Bundesrates",
+			"en" => "Review by the Federal Council"
+		],
+		"timeline_bundesrat_text" => [
+			"de" => [
+				"Bevor der Regierungsentwurf im Bundestag beraten werden kann, muss er dem Bundesrat zur Stellungnahme vorgelegt werden."
+			],
+			"en" => [
+				"Before the government draft can be discussed in the <i>Bundestag</i> (Parliament), it must be submitted to the <i>Bundesrat</i> (Federal Council) for comment."
+			]
+		],
+		"timeline_bundesrat_button" => [
+			"de" => "",
+			"en" => ""
+		],
+		
+		
+		
+		
+		
 		"timeline_lesung_1_date" => [
 			"de" => null,
 			"en" => null
