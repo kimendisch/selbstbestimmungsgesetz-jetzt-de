@@ -84,7 +84,7 @@
 							?>
 							
 							<div class="button-list">
-								<a href="https://www.spd.de/fileadmin/Dokumente/Koalitionsvertrag/Koalitionsvertrag_2021-2025.pdf" target="_blank" class="button">
+								<a href="https://web.archive.org/web/20230630200056/https://www.spd.de/fileadmin/Dokumente/Koalitionsvertrag/Koalitionsvertrag_2021-2025.pdf" target="_blank" class="button">
 									<span class="text"><?= $dict->get("timeline_koalitionsvertrag_button") ?></span>
 									<span class="icon ti ti-external-link"></span>
 								</a>
@@ -114,7 +114,7 @@
 							?>
 							
 							<div class="button-list">
-								<a href="https://www.bmfsfj.de/resource/blob/199382/1e751a6b7f366eec396d146b3813eed2/20220630-selbstbestimmungsgesetz-eckpunkte-data.pdf" target="_blank" class="button">
+								<a href="https://web.archive.org/web/20230418072943/https://www.bmfsfj.de/resource/blob/199382/1e751a6b7f366eec396d146b3813eed2/20220630-selbstbestimmungsgesetz-eckpunkte-data.pdf" target="_blank" class="button">
 									<span class="text"><?= $dict->get("timeline_eckpunktepapier_button") ?></span>
 									<span class="icon ti ti-external-link"></span>
 								</a>
@@ -144,11 +144,11 @@
 							?>
 							
 							<div class="button-list">
-								<a href="https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/Dokumente/RefE_Selbstbestimmung.pdf?__blob=publicationFile" target="_blank" class="button">
+								<a href="https://web.archive.org/web/20230610171918/https://www.bmfsfj.de/resource/blob/224548/4d24ff0698216058eb758ada5c84bd90/entwurf-selbstbestimmungsgesetz-data.pdf" target="_blank" class="button">
 									<span class="text"><?= $dict->get("timeline_referentenentwurf_button") ?></span>
 									<span class="icon ti ti-external-link"></span>
 								</a>
-								<a href="https://www.bmj.de/SharedDocs/Downloads/DE/Themen/FamilieUndPartnerschaft/Fragen_und_Antworten_SBGG.pdf?__blob=publicationFile" target="_blank" class="button">
+								<a href="https://web.archive.org/web/20230714124925/https://www.bmj.de/SharedDocs/Downloads/DE/Themen/FamilieUndPartnerschaft/Fragen_und_Antworten_SBGG.pdf?__blob=publicationFile" target="_blank" class="button">
 									<span class="text"><?= $dict->get("timeline_referentenentwurf_button2") ?></span>
 									<span class="icon ti ti-external-link"></span>
 								</a>
